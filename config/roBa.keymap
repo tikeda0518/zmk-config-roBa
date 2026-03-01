@@ -107,7 +107,7 @@
 
         ARROW {
             bindings = <
-&trans  &kp CARET       &trans  &kp LC(LEFT)  &kp LC(RIGHT)                                      &kp HOME                  &kp LC(A)       &kp UP_ARROW      &kp LC(E)        &kp END
+&trans  &kp CARET       &trans  &kp LA(LEFT)  &kp LA(RIGHT)                                      &kp HOME                  &kp LC(A)       &kp UP_ARROW      &kp LC(E)        &kp END
 &trans  &kp LEFT_SHIFT  &trans  &mkp MB1      &mkp MB2       &mkp MB3      &trans                &kp LEFT_ARROW            &kp LEFT_ARROW  &kp DOWN_ARROW    &kp RIGHT_ARROW  &trans
 &trans  &kp LEFT_GUI    &trans  &mkp MB4      &mkp MB5       &mkp MB3      &trans                &kp LC(LEFT)              &kp LC(LEFT)    &kp LC(UP_ARROW)  &kp LC(RIGHT)    &trans
 &trans  &trans          &trans  &trans        &trans         &trans        &kp LG(LS(NUMBER_4))  &kp LS(LG(LC(NUMBER_4)))                                                     &trans
